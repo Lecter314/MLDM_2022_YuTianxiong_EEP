@@ -1,0 +1,22 @@
+Intermediate status report, please see in .../NES Prediction1.4.ipynb:
+
+Team member: Tianxiong Yu
+
+what has been done:
+1. intro
+2. background of the contest
+3. data preprocessing
+4. feature engineering
+5. statistical analysis
+6. model construction (elementary)
+7. fit, predict and submit
+8. discussion
+
+what should be done:
+1. adding more features from external dataset
+improvements
+2. using methods like PCA rather than drop() for high corrs
+3. examine the model more precisely (based on recent lectures)
+4. prepare for project defense
+
+p.s. sorry for the imperfect for...everything, this topic is really frontier but interesting, and actually I have no background in biology. I'll try by best, best regards
